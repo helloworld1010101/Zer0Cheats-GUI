@@ -1,1 +1,1 @@
---Setting Up
+loadstring(game:HttpGet("https://raw.githubusercontent.com/helloworld1010101/Zer0Cheats-GUI/refs/heads/main/VeryCoolGUI.lua"))()
